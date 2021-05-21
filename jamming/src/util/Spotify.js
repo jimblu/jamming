@@ -1,5 +1,5 @@
 const clientId = '87812fb081be40e9a25d27a87364cb2e';
-const redirectUri = 'http://puzzling-scarecrow.surge.sh';
+const redirectUri = 'http://material-place.surge.sh';
 
 let accessToken;
 
